@@ -1,2 +1,11 @@
-# Prototipo-FinStart-Plataforma-Financeira
-Um prototipo de um site para resolver problemas financeiros com o foco para pessoas mais jovens que não entendem tanto do assunto, e junto com o auxílio de um assistente Copiloto para tirar dúvidas e fazer propostas financeiras, além de dar dicas e sugestões em como a conta vem se desenvolvendo, seus lucros e gastos sempre a mostra.
+
+  # Prototipo FinStart Plataforma Financeira
+
+  This is a code bundle for Prototipo FinStart Plataforma Financeira. The original project is available at https://www.figma.com/design/nn4zaX72ECX8VoAncndtSq/Prototipo-FinStart-Plataforma-Financeira.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
